@@ -1,2 +1,0 @@
-- Learning
-    - [go](learn/go/)
