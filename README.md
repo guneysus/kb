@@ -7,9 +7,9 @@
 
 ## Cheat Sheets
 
-- [Bash](cheat/bash/)
+- [Bash](cheat/bash/the-art-of-command-line.html)
 - [Git](cheat/git/)
-- [C#](cheat/csharp/)
-- [Markdown](cheat/markdown/)
+- [C# Clean Code](cheat/csharp/Clean-Code-V2.4.pdf)
+- [Markdown](cheat/markdown/markdown-cheatsheet-online.pdf)
 - [tmux](cheat/tmux/)
-- [VS Code](cheat/vscode/)
+- [VS Code](cheat/vscode/vscode.pdf)
