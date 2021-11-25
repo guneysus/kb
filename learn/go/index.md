@@ -8,3 +8,4 @@ is a book focusing on Go syntax/semantics and all kinds of runtime related thing
 - [How to Write Go Code](https://golang.org/doc/code)  This document demonstrates the development of a simple Go package inside a module and introduces the go tool, the standard way to fetch, build, and install Go modules, packages, and commands. 
 - [Effective Go](https://golang.org/doc/effective_go) This document gives tips for writing clear, idiomatic Go code. It augments the language specification, the Tour of Go, and How to Write Go Code, all of which you should read first. 
 - [A Tour of Go](https://tour.golang.org/list) Interactive Go
+

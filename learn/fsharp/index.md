@@ -1,0 +1,1 @@
+- [F# for Beginners](https://www.youtube.com/playlist?list=PLdo4fOcmZ0oUFghYOp89baYFBTGxUkC7Z)
