@@ -1,1 +1,1 @@
-- [wrk generate random IP data for benchmark](wkr-generate-random-ip.html)
+- [wrk generate random IP data for benchmark](wrk-generate-random-ip)
