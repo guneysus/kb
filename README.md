@@ -17,9 +17,9 @@
 
 ## Libs
 
-- [C#](libs/csharp.html)
+- [C#](libs/csharp/)
 
 
 ## Snippets
 
-- [Lua](snippets/lua.html)
+- [Lua](snippets/lua/)
