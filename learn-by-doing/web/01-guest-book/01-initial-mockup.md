@@ -19,9 +19,9 @@ A mockup is usually a drawing of page layout that does not work.
 
 
 ## Resources
-- https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/text
-- https://developer.mozilla.org/en-US/docs/Web/HTML/Element/textarea
-- https://developer.mozilla.org/en-US/docs/Web/HTML/Element/button
+- [HTML Input](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/text)
+- [HTML Text Area](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/textarea)
+- [HTML Button](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/button)
 
 
 ## Extra reading
