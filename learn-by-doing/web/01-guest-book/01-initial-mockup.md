@@ -5,6 +5,7 @@
 
 A mockup is usually a drawing of page layout that does not work.
 
+![Mockup](task01-layout.png "Mockup")
 
 ## Task Definition
 
