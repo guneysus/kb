@@ -31,21 +31,21 @@ You should use Flask, a micro web framework.
 ### Create your web app
 
 - Create a file named `hello.py`
+
 ```python
 from flask import Flask
-
 app = Flask(__name__)
 
 @app.route("/hello")
 def hello_world():
     return "<p>Hello, World!</p>"
-```    
+```
+
 
 Open a Powershell terminal and navigate to your project folder with:
 
-```
+
 cd your-project-path
-```
 
 Type and execute
 
